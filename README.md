@@ -5,7 +5,7 @@ Check webpage [www.vision.caltech.edu/~mronchi/projects/Cocoa] for an extended d
 API is missing for the moment.
 
 Files cocoa_beta_2015_demo.py (python script) and cocoa_beta_2015_demo.ipynb (ipython notebook) 
-examplify the basic ways of loading and using the coco-a dataset.
+show the basic ways of loading and using the coco-a dataset.
 
 Please contact me at:
  - mronchi@caltech.edu
